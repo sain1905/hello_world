@@ -1,6 +1,6 @@
 import numpy as np
 
-# create numpy array
+# create array using numpy
 decimals = np.arange(10)
 
 print(decimals)
